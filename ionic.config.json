@@ -1,0 +1,7 @@
+{
+  "name": "hydration",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
